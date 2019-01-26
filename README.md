@@ -1,8 +1,9 @@
 # developing-test
 # @borache/tiny
 
-[![npm (scoped)](https://img.shields.io/npm/v/@bamblehorse/tiny.svg)](https://www.npmjs.com/package/@bamblehorse/tiny)
-[![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@bamblehorse/tiny.svg)](https://www.npmjs.com/package/@bamblehorse/tiny)
+[![npm (scoped)](https://img.shields.io/npm/v/@borache/tiny.svg)](https://www.npmjs.com/package/@borache/tiny)
+[![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@borache/tiny.svg)](https://www.npmjs.com/package/@borache/tiny)
+[![install size](https://packagephobia.now.sh/badge?p=@borache/tiny)](https://packagephobia.now.sh/result?p=@borache/tiny)
 
 Removes all spaces from a string.
 
