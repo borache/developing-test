@@ -10,7 +10,7 @@ Removes all spaces from a string.
 ## Install
 
 ```
-$ npm install @bamblehorse/tiny
+$ npm install @borache/tiny
 ```
 
 ## Usage
